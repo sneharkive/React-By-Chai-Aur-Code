@@ -1,0 +1,35 @@
+:root {
+  font-family: sans-serif, cursive;
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 20px;
+
+  color: whitesmoke;
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button{
+  cursor: pointer;
+  background-color: blueviolet;
+  padding-inline: 20px;
+  padding-block: 5px;
+  font-size: 22px;
+
+
+}
+
